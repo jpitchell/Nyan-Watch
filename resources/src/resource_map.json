@@ -5,62 +5,62 @@
 	   {
 	    "type":"png",
 	    "defName":"FRAME_1",
-	    "file":"/images/tmp-0.png"
+	    "file":"images/tmp-0.png"
 	   },
 	   	{
 	    "type":"png",
 	    "defName":"FRAME_2",
-	    "file":"/images/tmp-1.png"
+	    "file":"images/tmp-1.png"
 	   },
 	   	   {
 	    "type":"png",
 	    "defName":"FRAME_3",
-	    "file":"/images/tmp-2.png"
+	    "file":"images/tmp-2.png"
 	   },
 	   	   {
 	    "type":"png",
 	    "defName":"FRAME_4",
-	    "file":"/images/tmp-3.png"
+	    "file":"images/tmp-3.png"
 	   },
 	   	   {
 	    "type":"png",
 	    "defName":"FRAME_5",
-	    "file":"/images/tmp-4.png"
+	    "file":"images/tmp-4.png"
 	   },
 	   	   {
 	    "type":"png",
 	    "defName":"FRAME_6",
-	    "file":"/images/tmp-5.png"
+	    "file":"images/tmp-5.png"
 	   },
 	   	   {
 	    "type":"png",
 	    "defName":"FRAME_7",
-	    "file":"/images/tmp-6.png"
+	    "file":"images/tmp-6.png"
 	   },
 	   	   {
 	    "type":"png",
 	    "defName":"FRAME_8",
-	    "file":"/images/tmp-7.png"
+	    "file":"images/tmp-7.png"
 	   },
 	   	   {
 	    "type":"png",
 	    "defName":"FRAME_9",
-	    "file":"/images/tmp-8.png"
+	    "file":"images/tmp-8.png"
 	   },
 	   	   {
 	    "type":"png",
 	    "defName":"FRAME_10",
-	    "file":"/images/tmp-9.png"
+	    "file":"images/tmp-9.png"
 	   },
 	   	   {
 	    "type":"png",
 	    "defName":"FRAME_11",
-	    "file":"/images/tmp-10.png"
+	    "file":"images/tmp-10.png"
 	   },
 	   	   {
 	    "type":"png",
 	    "defName":"FRAME_12",
-	    "file":"/images/tmp-11.png"
+	    "file":"images/tmp-11.png"
 	   }
 	  ]
 }
